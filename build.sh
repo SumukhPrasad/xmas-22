@@ -1,0 +1,1 @@
+clear && gcc -o snow snow.c -lm && ./snow
