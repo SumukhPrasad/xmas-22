@@ -13,8 +13,7 @@ int main() {
                printf("\n");
           }
      }
-     for (size_t i = 0; i < 2; i++)
-     {
+     for (size_t i = 0; i < 2; i++) {
           for (size_t j = 0; j < (w-3)/2; j++) printf(" ");
           for (size_t j = 0; j < 3; j++) {
                printf(".");
