@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-     char luminanceIndex[12] = "@&%*=-.";
+     char luminanceIndex[7] = "@&%*=-.";
      int w = 13;
      for (size_t t = 2; t < 5; t++) {
           for (size_t i = t-1; i < (2*t); i++) {

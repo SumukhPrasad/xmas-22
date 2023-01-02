@@ -4,7 +4,7 @@
                        int 
                       main()
                     { char //
-                luminanceIndex[12]
+                luminanceIndex[7]
              ="@&%*=-.";int w=13;/**/
                char scene[13][30];
         for(size_t t=2;t<5;t++){for(size_t 

@@ -3,7 +3,7 @@
            int
           main()
         {char LI
-     [12]="@&%*=-.";
+     [7]="@&%*=-.";
          int w=
       13;for(size_t 
      t=2;t<5;t++){for
@@ -14,7 +14,7 @@
   -LS)/2;j++)printf(" ")
        ;for(size_t
       j=0;j<LS;j++)
-     { printf("%c",LI
+     {printf("%c",LI
    [i-1]);}printf("\n")
 ;}}for(size_t i=0;i<2;i++)
        {for(size_t
